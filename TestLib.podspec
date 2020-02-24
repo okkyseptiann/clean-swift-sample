@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'okky.septian@koinworks.com' => 'okky.septian@koinworks.com' }
-  s.source           = { :git => 'https://github.com/okkyseptiann/clean-swift-sample.git', :tag => '1.0.1'}
+  s.source           = { :git => 'https://github.com/okkyseptiann/clean-swift-sample.git', :tag => '1.0.4'}
   s.swift_versions   = '4.0'
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
